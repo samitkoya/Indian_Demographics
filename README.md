@@ -8,7 +8,7 @@
 
 **Unlocking Societal Trends in Aadhaar Enrollment and Update Data**
 
-*Analyzing 4.94 million records across 36 states*
+*Analyzing 4.94 million records across 36 states and UTs*
 
 </div>
 
@@ -153,12 +153,3 @@ See [requirements.txt](requirements.txt) for exact versions.
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License – see [LICENSE](LICENSE) for details.
-
----
-
-<div align="center">
-<i>Built for UIDAI Hackathon 2026</i>
-</div>
