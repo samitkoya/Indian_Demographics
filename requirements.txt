@@ -1,0 +1,14 @@
+# UIDAI Aadhaar Data Analysis - Python Dependencies
+# Install: pip install -r requirements.txt
+
+# Core Data Processing
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Machine Learning & Statistics
+scikit-learn>=1.0.0
+scipy>=1.7.0
